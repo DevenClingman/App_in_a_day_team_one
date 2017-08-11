@@ -1,0 +1,14 @@
+<% @event_list.items.each do |event| %>
+<br>
+***************
+<br>
+    <% details = JSON.parse(event.to_json) %>
+        <% details.each do |attendee| %>
+            <% attendee.each do |email, status| %>
+                <%= "#{email} #{status}" %>
+                
+            <% end %>
+            <br>
+        <% end %>
+<% end %>
+

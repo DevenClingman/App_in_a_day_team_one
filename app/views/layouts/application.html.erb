@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
     <title>TeamOneApp</title>
     <%= csrf_meta_tags %>
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
-    <!-- <link href="../../../../dist/css/bootstrap.min.css" rel="stylesheet"> -->
   </head>
 
   <body>
@@ -17,4 +19,9 @@
 
     <%= yield %>
   </body>
+  <footer>
+    <div class="container-fluid footer-bottega">
+      <p>A PROUD PRODUCT OF BOTTEGA</p>
+    </div> 
+  </footer>
 </html>

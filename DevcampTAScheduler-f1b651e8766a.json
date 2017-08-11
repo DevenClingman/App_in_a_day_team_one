@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "devcamptascheduler-176519",
+  "private_key_id": "f1b651e8766a1c111ce01d458ef51dcc51c35e2f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDI5hzGYcfogFZX\nRMYv7H+wkRHJzVpZs04+MjZUfXH7a0pqTMuxyDty4f7PoZ4lqFAayh7kTAb44ZUx\nHiq5Nd88MyD7z8CEmPBO0dfcFuKXOm8C9QKVj1uOQO1JIN4Zh8Rt7Y7yOdV7jZK4\n8ylYejda3dk81xOXzJGPiZcwHHQ2fntnedHsmGtDSiTIABWGh8I7Tqkl3XRmm2W6\nR82Iw4QsN+2wTRI0kiAjOJsn+Oe8Oxgfbyue4GaLWOYP5TcEBwa9wyXCtaJaABhs\nEQUJSAieaMDH3F/SEZi7wL/wMqCYZnb6GT5/WAnPHV2E6+h9Gl5w73FuyksxXe0q\nRS6M6mbdAgMBAAECggEARE1kBBiTeFtFv5bc0MdV5Gh2BUfBi5S4KdI1gYVC3ulr\n2/cvG8sJVzY5xUrb806lqW4FkbW9exlq+U+Z0+1ab+OsN6C7AfnjXdDfVG8da7AM\ntRMq5UFfrd4qLn4ztLdhk8Q8IOODzuVjuGjHqlKnBkg9xv8SpL4C0SvE0LEj27CK\n9Sp1/0ABfomITkN+p7/kq+FY4zMuxqxYcUz3GdAQnVXvA9GUnXYrWjsKw2R/P8CD\n2PDd3K9z3Y/qswxNbOhINJf4jmwubAg7xivLfwIClgaG3oSuz/HzgLOal5gfCn91\nP0goeR8pVkPgROqKLXAuA3d0/oA8j3LN2MMkwg5xCwKBgQD6u4bT2jlSWMRC9igz\n/lwkh+htUtnzDgKVdrSz2R4DqUej4r898IFK14HEzQfvLRayVI27wt+vZQCLdx9x\nldLWBuW7O7S90OIu2gFfE9tqHEDqcJCEH1TgvikDHGx5RLxTR5uxiF6qy0E85cGY\nA9HfPMWTkO9BGgBqS4J4Hlgi9wKBgQDNHpLaeyeCUCy5/oQkSzIhordy51fiIlBo\nA35qNjgonnvZ5kWzJD+bxQx5KP0EEZD3EfOHeaOKvM5zLzPeRJ8b4TrYhxNP2u5E\nrSzaL5DrMB1WU3ysMyInLstuOe9V7R9FRDAgcFiYaq5vEsvb+8T3o6OqbeUdaJLV\n7QlGNRZ7ywKBgQD4YyYiYaE/rqhfHbSeLXHizrC2/MjlPA/bOYmyUXimb+CEvnBu\nUAAFwJDSAbvGeYhuic0PIPKvswNjJlOEFsSTOqoDXhajpHctqtKI+gb3i53TokfI\nW7GeI0RFzLa5PBrE9b+LlGkUEd9DEOlESyRyXqXsljwu5i9bHgrWLFlr6QKBgC0e\nnI8SqA4yNKR1J/wTzmM3t8K+wMYtZiJ7IkOayZ+lvPihfpN5VcSeA7BjI8TRWGIA\nwOD8EM1j2sXbjD1IOveXA6q9i7H1JpRUw5j6/ZW+b7Wdh78ZQFn+ISGN/OeZ0Vcb\nOLrp+5MLZHNqXw10xE703/uNUOi3KBWGnpOi+d8hAoGBAOgPY47HwVA3Uwb6b6F2\ny+epzh0ZbnarUQTlJoPtGuvyy7Wm6oku+evHoG2aWRUpmepIswJuRdEe36WMRQi/\nUZptn3zQR0Q783C4slwqnrhBpZBCJLxqkHRjXGV9kpryseSlNbdQ58E4XGhzh2HD\nDOfSuFG6iqJbFj5sNiq73O8Z\n-----END PRIVATE KEY-----\n",
+  "client_email": "devcampcalendar@devcamptascheduler-176519.iam.gserviceaccount.com",
+  "client_id": "104859406188671171596",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/devcampcalendar%40devcamptascheduler-176519.iam.gserviceaccount.com"
+}

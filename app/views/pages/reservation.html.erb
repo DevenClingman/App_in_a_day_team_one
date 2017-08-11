@@ -1,15 +1,24 @@
-<%= form_for(@reservation_detail) do |f| %>
+<%= link_to '< back', pages_calendar_path, class: "back-button" %>
+<div class="container">
+    
+  <p class="confirm-heading confirm-title">CONFIRM APPOINTMENT</p>
+  <p class="subheading confirm-heading">Selected TA: person</p>
+  <p class="subheading confirm-heading">Meeting date: Today</p>
+  <p class="subheading confirm-heading">Meeting time: RIGHT NOW</p>
+  <%= form_for(@reservation_detail) do |f| %>
+    <div class="form-group">
+      <p>Subject</p>
+      <%= f.text_field :title, class: 'form-control', placeholder: "i.e. Need help setting up database" %>
+    </div>
 
+    <div class="form-group">
+      <p>Notes</p>
+      <%= f.text_area :body, class: 'form-control note-text-box', rows: 20, placeholder: "Add any additional information..." %>
+    </div>
 
-  <div class="form-group">
-    <%= f.text_field :title, class: 'form-control', placeholder: "Reason for meeting" %>
-  </div>
+    <div class="form-group button-confirm">
+      <%= f.submit "Reserve", class: 'btn btn-success btn-block' %>
+    </div>
+  <% end %>
+</div>
 
- <div class="form-group">
-    <%= f.text_area :body, class: 'form-control', rows: 20, placeholder: "Description" %>
-  </div>
-
- <div class="form-group">
-    <%= f.submit "Reserve", class: 'btn btn-primary' %>
-  </div>
-<% end %>
